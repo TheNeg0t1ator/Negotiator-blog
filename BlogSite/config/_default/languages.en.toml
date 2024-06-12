@@ -1,24 +1,24 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "TheNeg0t1ator's Blog"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  # logo = "img/cat.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+[author]
+  name = "Kobe Dieryck"
+  image = "img/kobe.jpg"
+  # headline = "Electronics Engineer"
+  # bio = "A little bit about you"
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -32,16 +32,16 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/TheNeg0t1ator" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    { instagram = "https://www.instagram.com/kobedieryck/" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/kobe-dieryck" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -63,7 +63,7 @@ title = "Blowfish"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/@thenegotiator9701" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]
