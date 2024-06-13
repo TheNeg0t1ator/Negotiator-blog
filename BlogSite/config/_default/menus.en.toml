@@ -21,10 +21,17 @@
     url = "https://photo.the-ko.be/"
     weight = 2
 
+[[main]]
+    name = "Projects"
+    pageRef = "projects"
+    weight = 3
 
+[[main]]
+    name = "About"
+    pageRef = "about"
+    weight = 4
 
-
-#[[main]]
+# [[main]]
 #  name = "Blog"
 #  pageRef = "posts"
 #  weight = 10
