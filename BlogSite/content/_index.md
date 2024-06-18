@@ -1,4 +1,4 @@
 ---
-title: "My first post"
-description: "This is the homepage post"
+title: "Iter8"
+description: "Electronics blog"
 ---

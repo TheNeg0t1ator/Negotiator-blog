@@ -10,3 +10,5 @@ Hello and welcome! I'm Kobe Dieryck, a passionate Maintenance Technician, Electr
 
 Here, you'll find an overview of my skills, experiences, and projects. My interests span across electronic engineering, chip design, embedded systems, and circuit development. 
 
+for further questions, contact me (contact info on mainpage),
+or going to [my cv available above](https://the-ko.be/cv/english.pdf)
