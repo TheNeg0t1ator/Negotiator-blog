@@ -19,7 +19,7 @@
     identifier = "Photos"
     pre = "camera-retro"
     url = "https://photo.the-ko.be/"
-    weight = 2
+    weight = 20
 
 [[main]]
     name = "Projects"
