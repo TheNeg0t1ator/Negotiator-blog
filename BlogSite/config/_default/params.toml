@@ -26,7 +26,7 @@ defaultBackgroundImage = "img/polaris_mais_tiny.png" # used as default for backg
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -54,8 +54,8 @@ defaultBackgroundImage = "img/polaris_mais_tiny.png" # used as default for backg
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
-  showHero = false
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -78,8 +78,8 @@ defaultBackgroundImage = "img/polaris_mais_tiny.png" # used as default for backg
   showZenMode = false
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
