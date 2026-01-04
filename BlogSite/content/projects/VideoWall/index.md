@@ -5,6 +5,9 @@ description : "OpenCV Video Wall"
 
 summary : "OpenCV Video Wall"
 ---
+
+{{< youtube id=4pVxZaVUmOE loop=true autoplay=true >}}
+
 # A video wall made of monitors
 This project is built in opencv, using raspberry pi 4's. The pi's are clients that get a video stream, and display it on their monitor.
 the monitors are `1280x1024` resolution. The main video stream is started and captured on a server.
