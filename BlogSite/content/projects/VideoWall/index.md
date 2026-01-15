@@ -6,7 +6,9 @@ description : "OpenCV Video Wall"
 summary : "OpenCV Video Wall"
 ---
 
-{{< youtube id=4pVxZaVUmOE loop=true autoplay=true >}}
+<!-- sqs:beyondspace-youtube-embed-code -->            
+<iframe src="https://www.youtube.com/embed/4pVxZaVUmOE?autoplay=1&loop=1&playlist=4pVxZaVUmOE&mute=1&modestbranding=1&playsinline=1&iv_load_policy=3&controls=0&disablekb=1&fs=0&color=white" width="100%" height="auto" frameborder="0" allowfullscreen style="max-width: 100%;aspect-ratio: 16 / 9;"></iframe>
+<!-- /sqs:beyondspace-youtube-embed-code -->
 
 # A video wall made of monitors
 This project is built in opencv, using raspberry pi 4's. The pi's are clients that get a video stream, and display it on their monitor.
