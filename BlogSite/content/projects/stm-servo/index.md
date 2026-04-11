@@ -9,15 +9,7 @@ summary : "DC brushed pid servo"
 {{< github repo="TheNeg0t1ator/DC-Brushed-Servo" showThumbnail=false >}}
 
 
-## Videos 
 
-<!-- sqs:beyondspace-youtube-embed-code -->            
-<iframe src="https://www.youtube.com/embed/rqUkOZ4YkJQ?autoplay=1&loop=1&playlist=rqUkOZ4YkJQ&mute=1&playsinline=1&iv_load_policy=3&controls=0" width="315" height="560" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-<!-- /sqs:beyondspace-youtube-embed-code -->
-
-<!-- sqs:beyondspace-youtube-embed-code -->            
-<iframe src="https://www.youtube.com/embed/FPUD-hsDkuE?autoplay=1&loop=1&playlist=FPUD-hsDkuE&mute=1&modestbranding=1&playsinline=1&iv_load_policy=3&controls=0&disablekb=1&fs=0&color=white" width="315" height="560" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-<!-- /sqs:beyondspace-youtube-embed-code -->
 
 
 # DC Brushed PID Servo with STM32
@@ -101,3 +93,12 @@ Overflow and underflow are handled by tracking changes and correcting the total 
 
 This is extremely efficient, requiring no ISR overhead, and ideal for embedded control loops.
 
+## Videos 
+
+<!-- sqs:beyondspace-youtube-embed-code -->            
+<iframe src="https://www.youtube.com/embed/rqUkOZ4YkJQ?autoplay=1&loop=1&playlist=rqUkOZ4YkJQ&mute=1&playsinline=1&iv_load_policy=3&controls=0" width="315" height="560" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
+<!-- /sqs:beyondspace-youtube-embed-code -->
+
+<!-- sqs:beyondspace-youtube-embed-code -->            
+<iframe src="https://www.youtube.com/embed/FPUD-hsDkuE?autoplay=1&loop=1&playlist=FPUD-hsDkuE&mute=1&modestbranding=1&playsinline=1&iv_load_policy=3&controls=0&disablekb=1&fs=0&color=white" width="315" height="560" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
+<!-- /sqs:beyondspace-youtube-embed-code -->
