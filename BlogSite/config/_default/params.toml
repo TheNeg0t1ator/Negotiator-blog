@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["projects"]
 # robots = ""
 
 disableImageOptimization = false
@@ -38,8 +38,8 @@ defaultBackgroundImage = "img/polaris_mais_tiny.png" # used as default for backg
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
+  showRecent = true
+  showRecentItems = 2
   showMoreLink = false
   showMoreLinkDest = "/projects"
   cardView = false
